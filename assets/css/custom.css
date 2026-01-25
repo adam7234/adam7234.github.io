@@ -334,7 +334,7 @@ a:focus, .btn:focus, .form-control:focus{
   background: rgba(99,102,241,.15) !important;
 }
 
-
+/* Fonts */
 body{
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   color: var(--ink);
