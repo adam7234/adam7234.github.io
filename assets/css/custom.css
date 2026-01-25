@@ -334,5 +334,24 @@ a:focus, .btn:focus, .form-control:focus{
   background: rgba(99,102,241,.15) !important;
 }
 
+
+body{
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: var(--ink);
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6, .display-5, .navbar-brand{
+  font-family: 'Outfit', 'Inter', sans-serif;
+  letter-spacing: -.02em;
+  font-weight: 700;
+}
+
+.btn{
+  font-family: 'Outfit', 'Inter', sans-serif;
+}
+
 /* Optional: subtle global smoothing */
 hr{ opacity: .12; }
