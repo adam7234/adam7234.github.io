@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 # Blueprint Maintenance Services
 
 **Baltimore-based turn & make-ready support for landlords and property managers.**
