@@ -35,9 +35,26 @@ h1, h2, h3, h4, h5, h6, .display-5, .navbar-brand{
   letter-spacing: -.02em;
   font-weight: 700;
 }
+/* Hero lead copy: sharper, more professional */
 .lead{
-  line-height: 1.7;
-  color: rgba(15,23,42,.75);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 1.05rem;          /* slightly tighter than default */
+  line-height: 1.58;           /* crisper than 1.7 */
+  color: rgba(15,23,42,.82);   /* darker = more “pro” */
+  max-width: 56ch;             /* prevents overly long lines */
+}
+
+/* Optional: make hero paragraph even tighter without affecting other leads */
+.hero .lead{
+  font-size: 1.04rem;
+  line-height: 1.55;
+  max-width: 58ch;
+}
+
+/* Optional: add a “lead-strong” class to bold the first sentence */
+.lead-strong{
+  font-weight: 600;
+  color: rgba(15,23,42,.90);
 }
 
 /* Focus ring */
