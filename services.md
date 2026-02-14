@@ -4,61 +4,49 @@ title: Services
 permalink: /services/
 ---
 
-Turnovers, small repairs, and make-ready closeouts — done carefully and scheduled simply.
+About
 
-If you already have a list (turn list, punch list, inspection items), you’re the ideal client. Send photos + the list and I’ll confirm fit, estimate, and next availability (Thursdays + Sundays).
+Blueprint Home Services is a Baltimore-based handyman and maintenance service focused on turnovers, small repairs, and make-ready closeouts.
 
-## Best fit
+I provide clean work, clear communication, and a predictable process — especially for clients who already have a list (turn list, inspection items, punch list).
 
-This is a good fit if you need:
-- A rental turned over (make-ready list)
-- An inspection repair list closed out
-- A bundle of small fixes handled in one visit
+Best fit
 
-Not a fit for:
-- Remodels / multi-day projects
-- Major plumbing or electrical work
-- Anything that requires opening walls or specialized licensing
+- Rental turnovers / make-ready lists
+- Inspection repair lists
+- Bundled small fixes in one visit
 
-## The work I do most
+Common services
 
-### 1) Turnover / punch-list visits (best value)
-Multiple small tasks in one appointment. Common items:
-- Patch small holes (anchors, nail pops) and prep for paint
-- Caulk touch-ups (kitchen/bath where accessible)
-- Replace / adjust basic hardware (handles, knobs, hinges)
-- Doors: sticking, sagging, latch alignment, strike plate tweaks
-- Blinds, curtain rods, towel bars, hooks (simple installs)
+- Doors and hardware (locks, hinges, latches, alignment)
+- Drywall patching and touch-up prep
+- Caulk, sealing, basic weatherproofing
+- Mounting and installs (shelves, blinds, curtain rods, TV mounts)
+- Light plumbing swaps (faucets, showerheads, toilet internals where accessible)
+- Seasonal maintenance checklists and prep
 
-### 2) Patching + touch-up prep
-- Small holes, dents, anchor damage
-- Patch → sand → ready for paint
-- Paint touch-ups (best if matching paint is available)
+How it works
 
-### 3) Doors, locks, and hardware
-- Hinge swaps, handle/knob swaps
-- Deadbolt installs (existing prep preferred)
-- Latch alignment and smooth closing
-- Closet door adjustments and minor fixes
+1) Send details: short list + photos (wide + close-up) + zip code.
+2) I confirm fit and send an estimate (or recommend a short assessment visit).
+3) Schedule a turn block (Thursdays + Sundays).
+4) Closeout provided: what was done, materials used, and any watch-outs.
 
-### 4) Sealing + weatherproofing
-Small jobs that prevent expensive ones:
-- Re-caulking tubs, showers, sinks (as needed)
-- Weatherstripping / door sweeps
-- Air-gap sealing around trim and penetrations (accessible areas)
+What to expect
 
-### 5) Light plumbing swaps (simple + accessible)
-- Showerheads, sprayers, faucets (straightforward swaps)
-- Toilet basics (flapper / fill valve / supply line if accessible)
-If anything looks corroded, actively leaking, or risky, I’ll stop and recommend a plumber. No gambling with water.
+- Clear communication and realistic timelines
+- Respect for your space (cleaner in, cleaner out)
+- No upsells, no surprises
+- If it’s outside scope, I’ll tell you quickly and point you to the right trade
 
-## How to request a visit
+Service area
 
-Send:
-- Your neighborhood / zip code
+Baltimore City and nearby areas. If you’re slightly outside the core area, reach out and I’ll tell you if it’s feasible.
+
+Contact
+
+Use the Contact page and include:
+- Neighborhood / zip code
 - Your list (bullet points are fine)
-- Photos (wide shot + close-up for each item)
-- Access notes (tenant/owner occupied, lockbox, parking)
-- Your preferred timeframe
-
-Then use the Contact page to reach out. I’ll reply with: fit/not-a-fit, an estimate range, and the next available slot.
+- Photos (wide + close-up)
+- Your ideal timeframe
