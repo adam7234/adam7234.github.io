@@ -3,8 +3,6 @@ layout: page
 permalink: /about/
 ---
 
-# Blueprint Maintenance and Handyman Services
-
 Baltimore-based handyman help for homeowners who want small projects done cleanly and correctly.
 
 I’m not a “call me for anything” contractor. I focus on small repairs, installs, and punch lists — the stuff that piles up and never gets finished.
