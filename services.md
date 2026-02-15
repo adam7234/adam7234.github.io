@@ -6,73 +6,40 @@ permalink: /services/
 
 # Services – Blueprint Maintenance
 
-**Baltimore apartment turn & make-ready specialists.**  
-We turn vacant units into rent-ready ones—fast (often same-week), clean, fully photo-documented, and with zero surprises.
+Have a few fixes (or a small project) in mind? Let’s get it done.
 
-Choose the package that fits your turnover needs:
+I offer two simple packages for Baltimore homeowners. Book ahead only. Thursdays + Sundays. Photos required.
 
-### Full Turn Package – Up to 8-Hour Block
-**Ideal for:** Complete post-move-out make-ready on 1–2 bedroom units. Handles the bulk of small-to-medium fixes so leasing can start ASAP.
+## Package 1: Quick Fix Session (Up to 2 Hours)
+Best for: 1–3 small tasks.
 
-**What’s typically included:**
-- Full drywall patching, texture matching, and spot/whole-room paint touch-ups → Fresh, move-in-ready walls
-- Caulking, sealing, weatherproofing, and minor water-damage prep → No leaks or drafts
-- Door/hardware repairs or replacements (knobs, hinges, closers, sweeps)
-- Mounting & installation (shelves, blinds, curtain rods, misc.)
-- Straightforward fixture/trim swaps
-- Light plumbing fixes (faucets, showerheads, valves, lines)
-- Smoke/CO detector swaps (with new batteries if needed)
-- Final walkthrough + detailed photo closeout of every item
+Examples:
+- Hanging/mounting (shelves, curtain rods, mirrors, TV mount)
+- Door + hardware adjustments (sticking doors, loose handles, strike plates)
+- Caulking touch-ups (kitchen/bath)
+- Small drywall patches
+- Basic fixture swaps (simple, straightforward)
 
-**Outcome:** Unit photo-ready for listings/showings. Delivered: itemized list, notes, timestamped photos.
+## Package 2: Half-Day Reset (Up to 4 Hours)
+Best for: a punch list (roughly 4–8 small tasks) or a few more involved installs.
 
-**Pricing:** Fixed block rate (most units fit in 8 hrs). Quote after photos/punch list review—fast and no-obligation.
+Examples:
+- Multiple mounts/installs around the home
+- Several doors/hardware fixes
+- Multiple patches + touch-ups
+- A handful of small repairs across rooms
 
-### Punch List Package – Up to 4-Hour Block
-**Ideal for:** Quick hits when the unit is nearly ready but needs final fixes to avoid leasing delays.
+## How It Works
+1. Send photos + a short list.
+2. I confirm it’s a fit and recommend the right package.
+3. You book a Thu/Sun slot.
+4. Work gets done and cleaned up.
 
-**What’s typically included:**
-- Targeted drywall patches and paint touch-ups
-- Caulking/sealing fixes
-- Door/hardware adjustments
-- Small mounting/installs
-- Fixture/trim replacements
-- Light plumbing swaps
-- Detector swaps
-- Final check + photos of completed items
+## Boundaries
+Small repairs and installs only. No emergencies. No major electrical/plumbing/HVAC. No structural work. No big remodels.
 
-**Outcome:** Punch list cleared fast. Green light for inspections or move-ins.
+## Service Area
+Baltimore City + nearby (about a 30-minute radius).
 
-**Pricing:** Fixed block rate. Perfect for 5–15 items.
-
-### Our Simple 4-Step Process
-1. Send address + punch list (or photos/video).
-2. We scope, flag any licensed-trade needs, and quote block pricing.
-3. Schedule—we arrive equipped and on time.
-4. Get closeout: completed items, notes, pro photos.
-
-### What You Always Get
-- Rapid responses & clear communication
-- No scope creep or surprise charges
-- Clean, professional work → fewer callbacks
-- Real-time updates
-- Full photo docs for your records/owners
-
-### Boundaries (We Keep It Honest)
-Specialists in small-to-medium turns. **We do NOT handle:**
-- Major electrical/HVAC/structural
-- Licensed specialty work beyond basics
-
-We flag those upfront so you can line up the right pros—no wasted time.
-
-### Service Area
-Baltimore City + nearby (within ~30 min). Reach out for farther spots—we'll confirm.
-
-**Ready for your next fast turn?**  
-Contact us with:
-- Address/neighborhood
-- Punch list/photos/video
-- Target date
-- Access details (lockbox, status, parking)
-
-Let's minimize vacancy and get your units leased—quick and clean.
+Ready?
+Send your photos + list and I’ll confirm fit and pricing.
